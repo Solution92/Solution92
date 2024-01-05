@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Ashiedu 
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently doing my internship with Quantum Analytics NG 
-- 💞️ I’m looking to collaborate with any company as regards Data Analytics skill and solution 
+- 🌱 I’m currently working as a Product Data Analyst with Enjoy Resource Services 
+- 💞️ I’m looking to collaborate with any company as regards Data Analytics skills and solutions 
 - 📫 You can reach me on my email here immash52002@gmail.com
 
 <!---
